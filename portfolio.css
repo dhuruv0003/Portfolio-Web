@@ -218,19 +218,19 @@ a {
 100% sclae 1 */
 @keyframes scaleimage {
     0% {
-        filter: grayscale(0);
+       
         transform: scale(1);
         box-shadow: 3px 3px 15px rgb(0, 219, 248);
     }
 
     50% {
-        filter: grayscale(1);
-        transform: scale(1.1);
+      
+        transform: scale(1.07);
         box-shadow: 3px 3px 10px rgb(62, 57, 124);
     }
 
     100% {
-        filter: grayscale(0);
+       
         transform: scale(1);
         box-shadow: 3px 3px 15px rgb(20, 118, 153);
     }
