@@ -497,7 +497,7 @@ a {
     color:  rgb(255, 94, 0);;
 }
 .project-content:hover{
-    transform: scale(1.2);
+    transform: scale(1.08);
 }
 #project1{
     
@@ -514,7 +514,7 @@ a {
     background-position: center;
 }
 #project3{
-    background-image: url("Screenshot 2024-03-19 124258.png");  
+    background-image: url("Screenshot 2024-03-19 124409.png");  
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
