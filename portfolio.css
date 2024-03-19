@@ -196,10 +196,9 @@ a {
 }
 
 .user-image {
-    padding: 2.5rem;
-    filter: grayscale(1);
-    background-color: rgba(255, 255, 255, 0.744);
+    
 
+    background-color: rgba(255, 255, 255, 0.744);
     transition: all 1s;
     animation: scaleimage 5s linear infinite;
     z-index: -1;
