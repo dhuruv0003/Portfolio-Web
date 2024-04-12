@@ -14,7 +14,7 @@
 }
 
 .container {
-    width: 1200px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
@@ -712,6 +712,24 @@ footer{
   .nav-items {
     display: none;
   }
+  .user-image{
+    display: none;
+  }
+  .faded-text{
+    font-size: 60px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .project-container{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-left: 0;
+  }
+  .project-card{
+    left:0;
+    margin: 0 auto;
+  }
 }
 
 @media (max-width: 1300px) {
@@ -732,6 +750,12 @@ footer{
   }
   #btn-top {
     display: none;
+  }
+  
+  .faded-text{
+    font-size: 60px;
+    width: 100%;
+    margin: 0 auto;
   }
   #btn-bottom {
     margin-top: -7rem;
